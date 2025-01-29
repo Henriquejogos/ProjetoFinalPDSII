@@ -37,3 +37,7 @@ Listar Jogadores: O usuário também pode visualizar todos os jogadores registra
 
 + Execução da Partida: Durante a partida, as classes de jogo controlam as jogadas e verificam se são válidas. Por exemplo, no Jogo da Velha, elas garantem que o jogador só possa colocar sua peça em um espaço vazio. No final do jogo, a classe de jogo determina quem venceu, quem perdeu ou se houve um empate, e passa essa informação de volta ao sistema.
 + Resultado da Partida: Com o resultado da partida em mãos, o sistema atualiza as estatísticas dos jogadores, incrementando as vitórias e derrotas de acordo com o resultado da partida. O ciclo pode continuar com o usuário criando novos jogadores, jogando mais partidas ou visualizando as informações dos jogadores. O programa fica sempre pronto para gerenciar novos jogos e interações conforme necessário.
+
+## Card CRC
+
+![Card CRC](./CRC_CARD.png)
